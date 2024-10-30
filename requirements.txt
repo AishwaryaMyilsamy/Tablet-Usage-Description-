@@ -1,0 +1,10 @@
+roboflow==1.0.1
+ultralytics>=8.0.0,<9.0.0  
+pillow-avif-plugin
+torch==2.0.1 
+torchvision==0.15.2
+torchaudio==2.0.2
+ipykernel
+Flask
+requests
+beautifulsoup4
