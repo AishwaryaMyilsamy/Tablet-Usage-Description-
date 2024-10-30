@@ -1,5 +1,0 @@
-roboflow==1.0.1
-ultralytics==8.0.20
-pillow-avif-plugin
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-ipykernel
