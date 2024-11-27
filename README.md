@@ -1,0 +1,1 @@
+The Tablet Scanner is an AI-powered tool designed to simplify the identification of medical tablets and provide detailed information about their uses. This application enables users to scan tablets using a camera, recognize their name through image processing, and instantly retrieve their medical purposes and usage instructions.
